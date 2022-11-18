@@ -24,7 +24,7 @@ Using wikimedia to get the real time data
 17. Unzip the file and a folder will be created.
 18. You can rename to your convinient name if needed
 19. No software running is needed, but requires below steps to start your kafka server.
-20. From this link, https://kafka.apache.org/quickstart you have all the steps required to do for sterting Kafka server.
+20. From this link, https://kafka.apache.org/quickstart you have all the steps required to do for starting Kafka server.
 21. NOTE: Your local environment must have Java 8+ installed.
 Firstly, open terminal or cmd and navigate to your kakfka folder location.
 Apache Kafka can be started using ZooKeeper or KRaft. To get started with either configuration follow one the sections below but not both.
